@@ -44,7 +44,8 @@ This congressional election analysis provides an indepth look at voter results i
      3. Then the following code written to determine and print the total number of votes:
 
         ![image](https://user-images.githubusercontent.com/94148420/148704736-0ceb4dbe-c0a2-4afc-8751-16d209181c6b.png)
-        
+        ![image](https://user-images.githubusercontent.com/94148420/148704935-0ee0cb17-9315-4320-940a-0d1f0765f912.png)
+
 
 * **Number of Votes and Percentage of Total Votes for Each County in the Precinct**
 * **The County that had the Largest Number of Votes**
