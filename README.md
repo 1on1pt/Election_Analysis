@@ -39,6 +39,7 @@ This congressional election analysis provides an indepth look at voter results i
 * **Number of Votes Casted in this Election**
      1. The total number of votes in this election was 369,711 and is referenced in election_analysis.txt as Total Votes: 369,711
      2. To start, a voter counter was initialized:
+     
      ![image](https://user-images.githubusercontent.com/94148420/148704595-1471b758-5972-4158-b54c-a12af9fb8f98.png)
 
 
