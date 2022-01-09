@@ -38,7 +38,9 @@ This election audit was completed for the Colorado Board of Elections.  In addit
 This congressional election analysis provides an indepth look at voter results in the counties of Arapahoe, Denver, and Jefferson.  Election outcomes included the following:
 * **Number of Votes Casted in this Election**
      1. The total number of votes in this election was 369,711 and is referenced in election_analysis.txt as Total Votes: 369,711
-     2. To start, a voter counter was initialized: ![image](https://user-images.githubusercontent.com/94148420/148704553-cbc8498c-92af-40d7-a1ac-c521ea8d02e0.png)
+     2. To start, a voter counter was initialized:
+     ![image](https://user-images.githubusercontent.com/94148420/148704595-1471b758-5972-4158-b54c-a12af9fb8f98.png)
+
 
 * **Number of Votes and Percentage of Total Votes for Each County in the Precinct**
 * **The County that had the Largest Number of Votes**
