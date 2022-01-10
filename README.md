@@ -49,6 +49,11 @@ This congressional election analysis provides an indepth look at voter results i
 
 
 * **Number of Votes and Percentage of Total Votes for Each County in the Precinct**
+     1. Here are the results for the number of votes and percentage for each county:
+
+       ![image](https://user-images.githubusercontent.com/94148420/148709057-bda9c9c5-5acf-4fc2-804f-0d3a83708dd8.png)
+       
+
 * **The County that had the Largest Number of Votes**
 * **Provide a breakdown of the Number of Votes and the Percentage of the Total Votes Each Candidate Received**
 * **The Winning Candidate, Their Vote Count, and what was Their Percentage of the Total Votes**
