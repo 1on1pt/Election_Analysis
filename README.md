@@ -50,8 +50,11 @@ This congressional election analysis provides an indepth look at voter results i
 
 * **Number of Votes and Percentage of Total Votes for Each County in the Precinct**
      1. Here are the results for the number of votes and percentage for each county:
+          * Jefferson: 10.5% (38,855)
+          * Denver: 82.8% (306,055)
+          * Arapahoe: 6.7% (24,8012)
+          
 
-       ![image](https://user-images.githubusercontent.com/94148420/148709057-bda9c9c5-5acf-4fc2-804f-0d3a83708dd8.png)
        
 
 * **The County that had the Largest Number of Votes**
