@@ -41,7 +41,7 @@ This congressional election analysis provides an indepth look at voter results i
      2. To start, a voter counter was initialized:
      
         ![image](https://user-images.githubusercontent.com/94148420/148704595-1471b758-5972-4158-b54c-a12af9fb8f98.png)
-     3. Then the following code written to determine and print the total number of votes to the terminal and save to a text file:
+     3. Then the following code was written to determine and print the total number of votes to the terminal and save to a text file:
 
         ![image](https://user-images.githubusercontent.com/94148420/148704736-0ceb4dbe-c0a2-4afc-8751-16d209181c6b.png)
         
