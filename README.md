@@ -53,6 +53,16 @@ This congressional election analysis provides an indepth look at voter results i
           * Jefferson: 10.5% (38,855)
           * Denver: 82.8% (306,055)
           * Arapahoe: 6.7% (24,8012)
+     2. To start, the county was found in the second column or position 1 in the CSV file:
+
+         ![image](https://user-images.githubusercontent.com/94148420/148709333-8525110d-3cc1-48a6-8e6b-1563758e7557.png)
+
+     3. Then the county's vote count was tracked:
+
+        ![image](https://user-images.githubusercontent.com/94148420/148709432-3f36a5f0-bf5d-4077-a9c8-dbe28e689329.png)
+        
+     4. 
+
           
 
        
