@@ -61,15 +61,42 @@ This congressional election analysis provides an indepth look at voter results i
 
         ![image](https://user-images.githubusercontent.com/94148420/148709432-3f36a5f0-bf5d-4077-a9c8-dbe28e689329.png)
         
-     4. 
+     4. And finally the results tabulated and printed to the terminal and saved to a text file:
 
-          
+        ![image](https://user-images.githubusercontent.com/94148420/148709603-b4483a50-8f40-4191-b940-ada35ed2cb14.png)
 
-       
 
 * **The County that had the Largest Number of Votes**
+     1. The county that had the largest number of votes was **Denver**.
+     2. An "if" statement was writen to determine the county with the largest number of votes, then printed to the terminal and saved to a text file:
+
+        ![image](https://user-images.githubusercontent.com/94148420/148709772-c13ec6ee-df01-4b91-ac8c-6112d52547d6.png)
+
+
 * **Provide a breakdown of the Number of Votes and the Percentage of the Total Votes Each Candidate Received**
+     1. Here is a breakdow of the number of votes and the percentage of the total votes each candidate received:
+          * Charles Casper Stockham: 23.0% (85,213)
+          * Diana DeGette: 73.8% (272,892)
+          * Raymon Anthony Doane: 3.1% (11,606)
+     2. To start, the candidate name was found in the third column or position 2 of the CSV file.
+
+        ![image](https://user-images.githubusercontent.com/94148420/148710061-5549ebcd-ac17-4052-8b34-188232b13fbd.png)
+        
+     3. The candidates total number of votes was calculated:
+
+        ![image](https://user-images.githubusercontent.com/94148420/148710148-4c08d58a-eb4d-4863-a803-3da07bd34298.png)
+        
+     4. And finally the results were tabulated and printed to the terminal and saved to a text file:
+         
+         ![image](https://user-images.githubusercontent.com/94148420/148710272-6b7cd12e-fe84-47c5-a590-d31f0d4de473.png)
+
+
 * **The Winning Candidate, Their Vote Count, and what was Their Percentage of the Total Votes**
+     1. The winning candidate was **Diana DeGette** with **272,892** votes, and **73.8%** of the vote.
+     2. The following script was written to determine the winning candidate, the winning count, and the winning percentage:
+
+        ![image](https://user-images.githubusercontent.com/94148420/148710401-d3d68c49-7e61-4861-9744-d91041e2ea49.png)
+
 
 ### Election Audit Summary
 
