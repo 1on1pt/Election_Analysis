@@ -102,4 +102,4 @@ This congressional election analysis provides an indepth look at voter results i
 ### Election Audit Summary
 This election audit and analyis tool is an excellent model and can be used by the Colorado Board of Elections for audit and analysis of future elections.  This scipt is easily adaptable and can be used for local, county, and other state level elections.
 
-Although this tool was only used in one precinct for this congressional election, it can be easily expanded to include all precincts within the state for future congressional elections and include each candidate's party affiliation.  Additional state races to consider for analysis would be the governor's race and other elected officials. 
+Although this tool was only used in one precinct for this congressional election, in the future, it can be easily expanded to include all precincts and include each candidate's party affiliation.  Additional state races to consider for analysis would be the governor's race and other elected officials. 
